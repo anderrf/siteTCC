@@ -1,0 +1,40 @@
+.navbar{
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.navbar a{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: white;
+  text-decoration: none;
+}
+
+.rind{
+  margin-top: 20px;
+}
+
+
+<div class="row">
+          <div class="col-md-12">
+              <div class="navbar">
+                  <a href="#">Home</a>
+                  <a href="#">Quem somos</a>
+                  <a href="#">Catálogo</a>
+                  <a href="#">Blog</a>
+                  <a href="#">Contato</a>
+              </div>
+          </div>
+        </div>

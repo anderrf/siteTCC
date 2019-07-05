@@ -1,0 +1,102 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+
+.container{
+  margin-top: 40px;
+  width: 100%;
+  background-color: white;
+}
+
+.navbar{
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-bottom: 20px;
+  height: 7vh;
+  color: white;
+}
+
+.navbar a{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.jumbotron.text-center.updest{
+    background-color: black;
+    color: white;
+    padding: 100px 25px;
+}
+
+.rind{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.ritemfoot{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.spannav{
+  padding-top: 15px;
+}
+
+.spancont{
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.foot{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  background-color: black;
+  color: white;
+}
+
+.lgfoot{
+  color: white;
+}
+
+.spimgicon{
+  margin: 0px 20px 0px 0px;
+}
+
+.imgicon{
+  width: 30px;
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.ficha{
+  margin-top: 20px;
+}
+
+.textao{
+  text-align: justify;
+}
+
+.linkfb:hover{
+  background-color: #3b5998;
+}
+
+.linkinsta:hover{
+  background: linear-gradient(to bottom left, #515bd4, #8134af, #dd2a7b, #feda77, #f58529);
+}
